@@ -2,8 +2,11 @@
 applied information gain technique to find optimal path
 
 3 paramters:
+
 args[0] file name of the data set, exclude any frequence count
+
 args[1] which row want to predict
+
 args[2] (optional) file name of the frequenc count 
 
 Example: 	data.txt 1 
