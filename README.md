@@ -9,9 +9,11 @@ args[1] which row want to predict
 
 args[2] (optional) file name of the frequenc count 
 
-Example: 	data.txt 1 
+Example: 
 
-	or      data3.txt 3 freq.txt
+	data.txt 1 
+
+or      data3.txt 3 freq.txt
 
 for dataset, please first use sheet function TRANSPOSE to get the data set in following format:
 
