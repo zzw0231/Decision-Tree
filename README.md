@@ -10,6 +10,7 @@ args[1] which row want to predict
 args[2] (optional) file name of the frequenc count 
 
 Example: 	data.txt 1 
+
 	or      data3.txt 3 freq.txt
 
 for dataset, please first use sheet function TRANSPOSE to get the data set in following format:
@@ -17,7 +18,10 @@ for dataset, please first use sheet function TRANSPOSE to get the data set in fo
 Allowed dataset Example:
 
 (gender dont include this) 	0 0 0 1 1 1
+
 (income dont include this ) 	0 0 0 1 1 1
+
 (education dont include this ) 	0 0 0 1 1 1
+
 (work hours dont include this) 	0 0 0 1 1 1
 
